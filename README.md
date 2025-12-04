@@ -8,6 +8,7 @@ El objetivo principal de este proyecto, realizado para la tienda online de video
 🛠️ Metodología y Análisis Clave
 
 [Acceso al dashboard interactivo](https://videogame-platforms-data-analysis.onrender.com)
+
 El proyecto siguió un riguroso proceso de análisis de datos:
 
     Preprocesamiento de Datos:
