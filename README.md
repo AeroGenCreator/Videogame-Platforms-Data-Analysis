@@ -42,7 +42,7 @@ El proyecto siguió un riguroso proceso de análisis de datos:
             Las calificaciones promedio de los usuarios son las mismas entre las plataformas Xbox One y PC.
 
             Las calificaciones promedio de los usuarios son diferentes entre los géneros Acción y Deportes.
-
+![image alt](https://github.com/AeroGenCreator/Videogame-Platforms-Data-Analysis/blob/main/1.png)
 💡 Conclusión General
 
 El proyecto proporcionó información crucial sobre el ciclo de vida de las plataformas, el impacto de las reseñas y las preferencias regionales (plataformas, géneros y clasificación ESRB). Estos hallazgos permiten a la tienda Ice detectar proyectos de videojuegos prometedores y diseñar una estrategia de campaña publicitaria en 2017 más efectiva y enfocada en las tendencias y plataformas con mayor potencial de crecimiento.
