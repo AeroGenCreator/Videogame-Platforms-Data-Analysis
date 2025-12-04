@@ -7,7 +7,7 @@ Trabajo que consta de limpieza, analisis de datos, presentacion de resultados y 
 El objetivo principal de este proyecto, realizado para la tienda online de videojuegos Ice, fue identificar patrones de éxito en la industria del gaming y predecir qué juegos tienen mayor potencial de ventas para la planificación de la campaña publicitaria de 2017, basándose en datos históricos hasta diciembre de 2016.
 🛠️ Metodología y Análisis Clave
 
-[Acceso al dashboard interactivo](https://videogame-platforms-data-analysis.onrender.com)
+- [Acceso al dashboard interactivo](https://videogame-platforms-data-analysis.onrender.com)
 
 El proyecto siguió un riguroso proceso de análisis de datos:
 
