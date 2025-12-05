@@ -2,6 +2,9 @@
 Trabajo que consta de limpieza, analisis de datos, presentacion de resultados y conclusiones. (En streamlit se encuentra el dashboard final mientras que metricas y pruebas de hipotesis se encuentran en el jupyter notebook).
 
 🎮 Análisis de Datos para la Predicción de Éxito en Videojuegos
+
+![image alt](https://github.com/AeroGenCreator/Videogame-Platforms-Data-Analysis/blob/main/1.png)
+
 🎯 Objetivo del Proyecto
 
 El objetivo principal de este proyecto, realizado para la tienda online de videojuegos Ice, fue identificar patrones de éxito en la industria del gaming y predecir qué juegos tienen mayor potencial de ventas para la planificación de la campaña publicitaria de 2017, basándose en datos históricos hasta diciembre de 2016.
@@ -45,7 +48,7 @@ El proyecto siguió un riguroso proceso de análisis de datos:
             Las calificaciones promedio de los usuarios son las mismas entre las plataformas Xbox One y PC.
 
             Las calificaciones promedio de los usuarios son diferentes entre los géneros Acción y Deportes.
-![image alt](https://github.com/AeroGenCreator/Videogame-Platforms-Data-Analysis/blob/main/1.png)
+
 💡 Conclusión General
 
 El proyecto proporcionó información crucial sobre el ciclo de vida de las plataformas, el impacto de las reseñas y las preferencias regionales (plataformas, géneros y clasificación ESRB). Estos hallazgos permiten a la tienda Ice detectar proyectos de videojuegos prometedores y diseñar una estrategia de campaña publicitaria en 2017 más efectiva y enfocada en las tendencias y plataformas con mayor potencial de crecimiento.
